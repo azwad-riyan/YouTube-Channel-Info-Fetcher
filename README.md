@@ -31,19 +31,13 @@ You can install these libraries using pip:
 ```
 
 ## Executable File
-For those who don't have Python installed, an executable file is provided in the releases. This allows you to run the tool without needing to install Python or any additional libraries. So simple. 
+For those who don't have Python installed, an executable file is provided in the [releases](https://github.com/azwad-riyan/YouTube-Channel-Info-Fetcher/releases/tag/v1.0). This allows you to run the tool without needing to install Python or any additional libraries. So simple. 
 # Usage/Examples
 ## Step-by-Step Instructions
 ### 1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/YouTubeChannelInfoFetcher.git
-cd YouTubeChannelInfoFetcher
 
-```
-### 2. Run the tool
-```bash
-python main.py
-```
+### 2. Run the main.py file
+
 And that's all, enjoy!
 
 
@@ -67,11 +61,11 @@ For a more detailed guide, check the [official documentation.](https://developer
 4. You can export this information to a PDF by clicking on Export as PDF in your perfered directory.
 ## Screenshots
 
-![SS (1)](https://github.com/azwad-riyan/YouTube-Channel-Info-Fetcher/assets/112563850/2b081ae0-ef39-441d-a440-072ffd8c3700)
+
 
 ![SS (2)](https://github.com/azwad-riyan/YouTube-Channel-Info-Fetcher/assets/112563850/758cf17e-7d40-4fc6-a485-6c435e05e782)
 ![SS (3)](https://github.com/azwad-riyan/YouTube-Channel-Info-Fetcher/assets/112563850/9f1bb25f-f1bb-4ae0-8841-326804d31f5c)
-
+![SS (1)](https://github.com/azwad-riyan/YouTube-Channel-Info-Fetcher/assets/112563850/2b081ae0-ef39-441d-a440-072ffd8c3700)
 ## Contributing
 
 Feel free to fork this repository, make your changes, and submit a pull request. Your contributions are welcome!
