@@ -69,8 +69,8 @@ For a more detailed guide, check the [official documentation.](https://developer
 
 ![SS (1)](https://github.com/azwad-riyan/YouTube-Channel-Info-Fetcher/assets/112563850/2b081ae0-ef39-441d-a440-072ffd8c3700)
 
-![App Screenshot](SS (2).png)
-![App Screenshot](SS (3).png)
+![SS (2)](https://github.com/azwad-riyan/YouTube-Channel-Info-Fetcher/assets/112563850/758cf17e-7d40-4fc6-a485-6c435e05e782)
+![SS (3)](https://github.com/azwad-riyan/YouTube-Channel-Info-Fetcher/assets/112563850/9f1bb25f-f1bb-4ae0-8841-326804d31f5c)
 
 ## Contributing
 
