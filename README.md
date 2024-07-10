@@ -31,7 +31,7 @@ You can install these libraries using pip:
 ```
 
 ## Executable File
-For those who don't have Python installed, an executable file is provided in the `dist` folder. This allows you to run the tool without needing to install Python or any additional libraries.
+For those who don't have Python installed, an executable file is provided in the releases. This allows you to run the tool without needing to install Python or any additional libraries. So simple. 
 # Usage/Examples
 ## Step-by-Step Instructions
 ### 1. Clone the repository:
