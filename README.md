@@ -67,7 +67,8 @@ For a more detailed guide, check the [official documentation.](https://developer
 4. You can export this information to a PDF by clicking on Export as PDF in your perfered directory.
 ## Screenshots
 
-![App Screenshot]((https://github.com/azwad-riyan/YouTube-Channel-Info-Fetcher/blob/main/SS%20(2).png)))
+![SS (1)](https://github.com/azwad-riyan/YouTube-Channel-Info-Fetcher/assets/112563850/2b081ae0-ef39-441d-a440-072ffd8c3700)
+
 ![App Screenshot](SS (2).png)
 ![App Screenshot](SS (3).png)
 
