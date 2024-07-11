@@ -1,5 +1,5 @@
 
-# YouTube Channel Info Fetcher
+# Youtube Sherlock (YouTube Channel Info Fetcher)
 
 
 
